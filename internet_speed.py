@@ -1,4 +1,5 @@
 from speedtest import Speedtest
+#pip install speedtest-cli
 
 wifi=Speedtest()
 print("Getting Download speed...")
